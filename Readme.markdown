@@ -30,7 +30,7 @@ Running the code
 
 Set environment variables: CASTLE_API_KEY and CASTLE_APP_ID.
  
-Run web server with:
+Run the web server with:
 
 > mvn tomcat7:run
 
