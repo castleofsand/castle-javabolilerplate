@@ -32,7 +32,7 @@ Set environment variables: CASTLE_API_KEY and CASTLE_APP_ID.
  
 Run web server with:
 
-> mvn jetty7:run
+> mvn tomcat7:run
 
 Navigate to:
 
